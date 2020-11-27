@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salt Lake Infinity", "Salt Lake Infinity\Salt Lake Infinity.csproj", "{FB7A51F0-7DE6-4F2B-AA02-E7EBDAE65481}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador Salt Lake Infinity", "..\Instalador Salt Lake Infinity\Instalador Salt Lake Infinity.vdproj", "{752A7AD0-2F8F-415E-9B97-26B18F2A2753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB7A51F0-7DE6-4F2B-AA02-E7EBDAE65481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7A51F0-7DE6-4F2B-AA02-E7EBDAE65481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7A51F0-7DE6-4F2B-AA02-E7EBDAE65481}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FB7A51F0-7DE6-4F2B-AA02-E7EBDAE65481}.Debug|x64.Build.0 = Debug|Any CPU
+		{FB7A51F0-7DE6-4F2B-AA02-E7EBDAE65481}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FB7A51F0-7DE6-4F2B-AA02-E7EBDAE65481}.Debug|x86.Build.0 = Debug|Any CPU
+		{FB7A51F0-7DE6-4F2B-AA02-E7EBDAE65481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7A51F0-7DE6-4F2B-AA02-E7EBDAE65481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7A51F0-7DE6-4F2B-AA02-E7EBDAE65481}.Release|x64.ActiveCfg = Release|Any CPU
+		{FB7A51F0-7DE6-4F2B-AA02-E7EBDAE65481}.Release|x64.Build.0 = Release|Any CPU
+		{FB7A51F0-7DE6-4F2B-AA02-E7EBDAE65481}.Release|x86.ActiveCfg = Release|Any CPU
+		{FB7A51F0-7DE6-4F2B-AA02-E7EBDAE65481}.Release|x86.Build.0 = Release|Any CPU
+		{752A7AD0-2F8F-415E-9B97-26B18F2A2753}.Debug|Any CPU.ActiveCfg = Debug
+		{752A7AD0-2F8F-415E-9B97-26B18F2A2753}.Debug|x64.ActiveCfg = Debug
+		{752A7AD0-2F8F-415E-9B97-26B18F2A2753}.Debug|x86.ActiveCfg = Debug
+		{752A7AD0-2F8F-415E-9B97-26B18F2A2753}.Release|Any CPU.ActiveCfg = Release
+		{752A7AD0-2F8F-415E-9B97-26B18F2A2753}.Release|x64.ActiveCfg = Release
+		{752A7AD0-2F8F-415E-9B97-26B18F2A2753}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B7B694A-8956-4C6A-883A-3A0642471E01}
+	EndGlobalSection
+EndGlobal

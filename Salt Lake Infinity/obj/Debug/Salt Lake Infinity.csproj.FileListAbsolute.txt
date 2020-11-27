@@ -1,0 +1,13 @@
+C:\Users\Hugo\Desktop\Salt Lake Infinity\Salt Lake Infinity\bin\Debug\Salt Lake Infinity.exe.config
+C:\Users\Hugo\Desktop\Salt Lake Infinity\Salt Lake Infinity\bin\Debug\Salt Lake Infinity.exe
+C:\Users\Hugo\Desktop\Salt Lake Infinity\Salt Lake Infinity\bin\Debug\Salt Lake Infinity.pdb
+C:\Users\Hugo\Desktop\Salt Lake Infinity\Salt Lake Infinity\obj\Debug\Salt Lake Infinity.csprojAssemblyReference.cache
+C:\Users\Hugo\Desktop\Salt Lake Infinity\Salt Lake Infinity\obj\Debug\Salt_Lake_Infinity.Form1.resources
+C:\Users\Hugo\Desktop\Salt Lake Infinity\Salt Lake Infinity\obj\Debug\Salt_Lake_Infinity.Properties.Resources.resources
+C:\Users\Hugo\Desktop\Salt Lake Infinity\Salt Lake Infinity\obj\Debug\Salt Lake Infinity.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\Salt Lake Infinity\Salt Lake Infinity\obj\Debug\Salt Lake Infinity.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\Salt Lake Infinity\Salt Lake Infinity\obj\Debug\Salt Lake Infinity.exe
+C:\Users\Hugo\Desktop\Salt Lake Infinity\Salt Lake Infinity\obj\Debug\Salt Lake Infinity.pdb
+C:\Users\Hugo\Desktop\Salt Lake Infinity\Salt Lake Infinity\bin\Debug\pt-BR\Salt Lake Infinity.resources.dll
+C:\Users\Hugo\Desktop\Salt Lake Infinity\Salt Lake Infinity\obj\Debug\Salt_Lake_Infinity.Form1.pt-BR.resources
+C:\Users\Hugo\Desktop\Salt Lake Infinity\Salt Lake Infinity\obj\Debug\pt-BR\Salt Lake Infinity.resources.dll
